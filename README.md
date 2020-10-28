@@ -1,1 +1,2 @@
 # react-recoil
+tailwindcss + recoil
